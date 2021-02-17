@@ -1,0 +1,9 @@
+C:\Users\Chanda\Downloads\linqstatistics_src\LinqStatistics_src\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Chanda\Downloads\linqstatistics_src\LinqStatistics_src\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Chanda\Downloads\linqstatistics_src\LinqStatistics_src\ConsoleApplication1\bin\Debug\LinqStatistics.dll
+C:\Users\Chanda\Downloads\linqstatistics_src\LinqStatistics_src\ConsoleApplication1\bin\Debug\LinqStatistics.pdb
+C:\Users\Chanda\Downloads\linqstatistics_src\LinqStatistics_src\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojAssemblyReference.cache
+C:\Users\Chanda\Downloads\linqstatistics_src\LinqStatistics_src\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Chanda\Downloads\linqstatistics_src\LinqStatistics_src\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CopyComplete
+C:\Users\Chanda\Downloads\linqstatistics_src\LinqStatistics_src\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Chanda\Downloads\linqstatistics_src\LinqStatistics_src\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
